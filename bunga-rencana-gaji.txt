@@ -1,0 +1,3 @@
+RENCANA PENGGAJIAN
+- Menggunakan C13
+- Menggunakan Vs code
